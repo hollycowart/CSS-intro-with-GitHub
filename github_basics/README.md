@@ -10,7 +10,7 @@ Right now you’re looking at a GitHub repo. “Repo” is short for “reposito
 
 ##Sign up for GitHub
 
-So you can play too, you need to get a GitHub account (if you don’t have one yet). There should be a “Sign Up” button at the top of this page.
+So you can play too, you need to get a GitHub account (if you don’t have one yet). There should be a “Sign Up” button at the top of this page (if you are not already signed in).
 
 **Note:** Think about your username before you choose it. This is a professional space. Your username will be visible to strangers.
 
