@@ -2,7 +2,7 @@
 
 This is a GitHub repo for a first assignment with CSS.
 
-Before you can play, you need to learn some things about GitHub. Do you see the folder above named *github-basics*? Go into that folder, follow all the instructions there, and then come back.
+Before you can play, you need to learn some things about GitHub. Do you see the folder above named *github_basics*? Go into that folder, follow all the instructions there, and then come back.
 
 ##Forking a repo
 
