@@ -1,8 +1,10 @@
-#Instructions
+#Instructions for Assignment
 
-You will work inside two files, *starter_file.html* and *first.css.* However, you must save copies with new filenames. So immediately after opening *starter_file.html*, do a Save As and name it with your first name and last initial (my file would be *mindym.html*). Make sure you save this new file into the same place. Do the same with *first.css* (my file would be *mindym.css*).
+You will work inside two files, *starter_file.html* and *first.css* (inside the *styles* folder). However, you must save copies with new filenames. So immediately after opening *starter_file.html*, do a Save As and name it with your first name and last initial (my file would be *mindym.html*). Make sure you save this new file into the same place. Do the same with *first.css* (my file would be *mindym.css*).
 
 Please be very careful to follow those instructions exactly.
+
+References to chapters 11 and 13: [this book](http://shop.oreilly.com/product/0636920023494.do).
 
 ##The HTML file
 
@@ -21,7 +23,7 @@ Those tags are covered in your textbook and also in the ["HTML Basics" videos on
 
 ##Your color palette
 
-Create a preliminary color palette using [ColorPicker.com](http://www.colorpicker.com/), the [Adobe Color](https://color.adobe.com/create/color-wheel/) site, or another tool. You might enjoy [this](https://color.adobe.com/explore/most-popular/?time=all) -- choose Edit on any palette to get access to the hexadecimal codes.
+Create a preliminary color palette using [ColorPicker.com](http://www.colorpicker.com/), the [Adobe Color](https://color.adobe.com/) site, or another tool. You might enjoy [this](https://color.adobe.com/explore/most-popular/?time=all) -- choose Edit on any palette to get access to the hexadecimal codes.
 
 **ALL colors in your stylesheet MUST use hexadecimal codes** (explained in chapter 13).
 
@@ -44,17 +46,17 @@ Style the following:
 * Color 3: The background color of both `aside` and `body`.
 * Color 4: The background color of `figure`.
 
-You might decide your palette needs some changes. Feel free to change your four colors as you save and reload the HTML file and view the results in your browser. But do use exactly four different colors as listed above.
+After you save and reload in the browser, you might decide your palette needs some changes -- especially if the colors hurt your eyes! Feel free to change your four colors as you save and view the results in your browser. But do use *exactly four different colors* as listed above.
 
-Note that the `body` and `article` selectors are already in the stylesheet. Edit or add to the existing declarations. Do not add another `body` or `article` rule!
+Note that the `body` and `article` selectors are already in the stylesheet. Edit or add to the existing declarations. Do not add another `body` or `article` rule! (Not sure what a rule is? Or a declaration? These are explained in chapter 11.)
 
 ###Text
 
-When you are satisfied with those results, move on to the text color that is specified in `body`. For this assignment, use only #fff or #000 here.
+When you are satisfied with those results, move on to the text color that is specified in `body`. For this assignment, use only `#fff` or `#000` here.
 
 After you specify the text color for `body`, reload the page and look at each part of the page. Is there any element in which the contrast is poor for text on background? If so, you must change the text color for that element.
 
-Example: In my `aside`, I see that #000 text on #510d57 background is very hard to read. My stylesheet has this:
+Example: In my `aside`, I see that `#000` text on `#510d57` background is very hard to read. My stylesheet has this:
 
 ```
 aside {
