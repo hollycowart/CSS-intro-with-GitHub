@@ -18,6 +18,20 @@ The "parallel universes" analogy is really appropriate, because when you are in 
 
 ##Create a new branch
 
-In your GitHub app, in the Branches window, find the tiny plus sign and click it.
+In your GitHub app, in the Branches window, find the tiny plus sign on the *master* branch and click it.
 
-You should see text saying, "Create a new branch off master," and a box to type in. Name the new branch. My suggestion: Name it *sandbox* (it's a place to play). Or name it *assignment* since that's what you'll be working on in the new branch.
+You should see text saying, "Create a new branch off master," and a box to type in. Name the new branch. My suggestion: Name it *assignment* since that's what you'll be working on in the new branch.
+
+You should see your second branch immediately.
+
+##Switching between branches
+
+This can be tricky, so pay attention. Remember the idea of "parallel universes"? Keep that in mind, because branches are NOT like folders. You can't simply move stuff back and forth between them.
+
+In your app, there should be a menu on the branch (still in the Branches window) that allows you to "Switch to This Branch." There should be a clear indicator (a checkmark) to tell you which branch you are in now. When you go to the Changes tab in the app, you should see the name of the current branch.
+
+##Your assignment
+
+For this assignment, I want you to do EVERYTHING in your *assignment* branch. Do not make any edits or other changes while you are in *master.* So **switch to your *assignment* branch,** and then **stay in it.**
+
+This will allow you to do the pull request successfully, later.
