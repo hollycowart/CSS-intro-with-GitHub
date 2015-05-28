@@ -1,5 +1,11 @@
 #Instructions for Assignment
 
+Make sure you are in the *assignment* branch in your GitHub app.
+
+If you don't understand that, you probably skipped a step. Not good. Go back and find out where you went off the track.
+
+Start [here](../github_basics).
+
 You will work inside two files, *starter_file.html* and *first.css* (inside the *styles* folder). However, you must save copies with new filenames. So immediately after opening *starter_file.html*, do a Save As and name it with your first name and last initial (my file would be *mindym.html*). Make sure you save this new file into the same place. Do the same with *first.css* (my file would be *mindym.css*).
 
 Please be very careful to follow those instructions exactly.

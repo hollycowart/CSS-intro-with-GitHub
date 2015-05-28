@@ -37,4 +37,4 @@ On your hard drive, you’ll see a folder with the same name as that repo. (Thes
 
 ##Next steps
 
-To continue with your assignment, go into the folder above named *assignment.*
+To continue with your assignment, go into the folder above named *git_branches* and follow the instructions there.

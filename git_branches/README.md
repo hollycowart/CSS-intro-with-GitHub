@@ -35,3 +35,7 @@ In your app, there should be a menu on the branch (still in the Branches window)
 For this assignment, I want you to do EVERYTHING in your *assignment* branch. Do not make any edits or other changes while you are in *master.* So **switch to your *assignment* branch,** and then **stay in it.**
 
 This will allow you to do the pull request successfully, later.
+
+##Next steps
+
+To continue with your assignment, go into the folder above named *assignment* and follow the instructions there. Remember to stay in your *assignment* branch! Do not switch branches again.
