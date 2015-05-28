@@ -28,11 +28,13 @@ Go to the Help section at that website (Mac or Windows, above) and open the “G
 
 Using the instructions as needed, LINK your GitHub account to the app (GitHub for Mac or GitHub for Windows).
 
+You DID sign up for GitHub already -- yes?
+
 ##Get organized
 
 Time for some thinking: GitHub expects things to be stable on your hard drive(s). That means you need to decide very deliberately WHERE on your hard drive a folder associated with GitHub will be. DO NOT associate GitHub with folders on your Desktop!
 
-Go *inside* your Documents folder and make a **new folder** there. This ONE folder  will contain all other folders that you will associate with GitHub. You might name that folder Webwork, or Datawork, or Code, or some other general term. Name it something that makes sense to you.
+Go *inside* your Documents folder and make a **new folder** there. This ONE folder  will contain all other folders that you will associate with GitHub. You might name that folder Webwork, or Datawork, or Code, or some other general term. Name it something that makes sense to you. (I think it would be confusing to name it GitHub. Maybe naming it GitHub Projects would work.)
 
 Your GitHub app is going to coordinate things for you between the Web (GitHub) and your hard drive, but GitHub can’t think, and GitHub can’t figure out that you have moved a folder or changed its name.
 
@@ -40,4 +42,4 @@ To get you started, we will **fork** and then **clone** a repo. (Those GitHub wo
 
 **Go back to the top of this repo now,** and you’ll learn how. Instructions are there.
 
-To get back to the top of any repo, find the link with its name in the upper left area of the page at GitHub.
+To get back to the top of any repo, find the link with its name in the upper-left area of the page at GitHub. Go to the top of this page now, and find that link.
