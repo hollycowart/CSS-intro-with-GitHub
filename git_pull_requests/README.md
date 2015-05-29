@@ -31,6 +31,8 @@ Note that you will do this on GitHub, in your own repo. Not in the original that
 5. Now you'll see a bigger green button: "Create pull request." Click it.
 6. There is a form for you to fill in. Do so, then click the last button that says "Create pull request."
 
+The title is the name of your request (what are you asking to add?) and the description gives the reason why.
+
 ##What might happen after making a pull request?
 
 The owner of the original repo (the one you forked) might decide to **merge** your changes into the *master* branch of the original. In that case, your files and changes will appear in the original repo on GitHub.
@@ -47,4 +49,4 @@ It should be clear to you now why you had to rename the two files. If your filen
 
 Everyone admits it is a challenge to learn Git and GitHub. Everyone goes through the same challenging process to learn how to use them.
 
-We will continue using these tools in this course because they are powerful and widely used for all kinds of sites, apps, businesses and projects.
+We will continue using these tools in this course because they are powerful and widely used for all kinds of professional sites, apps, businesses and projects.
