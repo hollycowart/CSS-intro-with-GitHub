@@ -22,7 +22,7 @@ The "parallel universes" analogy is really appropriate, because when you are in 
 
 ##Create a new branch
 
-Mac: In your GitHub app, in the Branches window or list, find the tiny plus sign on the *master* branch and click it. You should see text saying, "Create a new branch off master," and a box to type in.
+Mac: In your GitHub app, in the Branches window, find the tiny plus sign on the *master* branch and click it. You should see text saying, "Create a new branch off master," and a box to type in.
 
 Windows: In your GitHub app, at the top of the drop-down list, you'll see a box to type in. Make sure you see the checkmark on *master.*
 
@@ -46,4 +46,6 @@ This will allow you to do the pull request successfully, later.
 
 ##Next steps
 
-To continue with your assignment, go into the folder above named *assignment* and follow the instructions there. Remember to stay in your *assignment* branch! Do not switch branches again.
+To continue with your assignment, go back to the top of this repo, where all files and folders are listed. Go into the folder above named *assignment* and follow the instructions there.
+
+Remember to stay in your *assignment* branch! Do not switch branches again.
