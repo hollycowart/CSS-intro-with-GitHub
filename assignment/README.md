@@ -43,7 +43,12 @@ Your preliminary color palette must include four (4) colors that are not white, 
 
 ##The CSS file
 
-Note that we have not yet covered fonts, margin, padding, and many other elements of CSS. So keep your focus on the purpose of this assignment: use of color.
+Note that we have not yet covered fonts, margin, padding, and many other elements of CSS. So keep your focus on the purposes of this assignment:
+
+* Write an external CSS stylesheet.
+* Use selectors correctly in writing CSS rules.
+* Learn to use color in CSS declarations.
+* Test and modify your style rules.
 
 We also have not covered use of classes and IDs, so you will apply styles only to *element type selectors* such as `body`, `figure` and `h1`.
 
@@ -51,7 +56,7 @@ We also have not covered use of classes and IDs, so you will apply styles only t
 
 ###Backgrounds
 
-Style the following:
+You have four colors in your palette. Style the following:
 
 * Color 1: The background color of both `header` and `footer`.
 * Color 2: The background color of `article`.

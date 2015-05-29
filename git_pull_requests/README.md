@@ -37,10 +37,14 @@ The owner of the original repo (the one you forked) might decide to **merge** yo
 
 Alternatively, the owner might want to discuss your changes with you. In that case, a message would be visible to you [here](https://github.com/macloo/CSS-intro-with-GitHub/pulls) (in the case of this assignment).
 
-To see all pull requests on a repo, and the conversations about them, find the "Pull requests" link on the right side of the repo and go there.
+To see all pull requests in a repo, and the conversations about them, find the "Pull requests" link on the right side of the repo and go there.
 
 ##Conclusion
 
 If you have successfully completed all the steps, your instructor will see your pull request and approve it, and your new files will be added to the original repo.
 
-It should be clear to you now why you had to rename the two files. If you filenames were identical to the names of the original files, yours would overwrite the originals. Moreover, there would be no way to add the files of all the students in the class.
+It should be clear to you now why you had to rename the two files. If your filenames were identical to the names of the original files, yours would overwrite the originals. Moreover, there would be no way to add the files of all the students in the class.
+
+Everyone admits it is a challenge to learn Git and GitHub. Everyone goes through the same challenging process to learn how to use them.
+
+We will continue using these tools in this course because they are powerful and widely used for all kinds of sites, apps, businesses and projects.
