@@ -31,7 +31,7 @@ Note that you will do this on GitHub, in your own repo. Not in the original that
 5. Now you'll see a bigger green button: "Create pull request." Click it.
 6. There is a form for you to fill in. Do so, then click the last button that says "Create pull request."
 
-The title is the name of your request (what are you asking to add?) and the description gives the reason why.
+The **title** is the name of your request (what are you asking to add or change?), and the **description** gives the reason why.
 
 ##What might happen after making a pull request?
 
