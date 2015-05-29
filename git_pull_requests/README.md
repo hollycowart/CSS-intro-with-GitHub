@@ -37,7 +37,7 @@ The **title** is the name of your request (what are you asking to add or change?
 
 The owner of the original repo (the one you forked) might decide to **merge** your changes into the *master* branch of the original. In that case, your files and changes will appear in the original repo on GitHub.
 
-Alternatively, the owner might want to discuss your changes with you. In that case, a message would be visible to you [here](https://github.com/macloo/CSS-intro-with-GitHub/pulls) (in the case of this assignment).
+Alternatively, the owner might want to discuss your changes with you. In that case, a message would be visible to you [here](../pulls) (in the case of this assignment).
 
 To see all pull requests in a repo, and the conversations about them, find the "Pull requests" link on the right side of the repo and go there.
 
