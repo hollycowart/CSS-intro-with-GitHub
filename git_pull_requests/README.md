@@ -26,8 +26,8 @@ Note that you will do this on GitHub, in your own repo. Not in the original that
 
 1. Open your remote repo on GitHub. The URL will resemble this: `github.com/yourname/CSS-intro-with-GitHub`
 2. Switch into your *assignment* branch. On the left side, near the top, you should see a squarish green button. Beside it is a gray button that says "branch: master." Click the gray button to switch branches. No *assignment* branch? Did you [commit and sync all changes](../git_commit_and_sync)?
-3. Just below the gray button you'll see the current status of the branch. It should say something like "This branch is 6 commits ahead ..." or possibly "This branch is 2 commits ahead, 18 commits behind ..." The one thing it should NOT say is "This branch is even with ..." because that would mean you have not committed anything!
-4. Click the squarish green button.
+3. Just below the gray button you'll see the current status of the branch. It should say something like "This branch is 6 commits ahead ..." or possibly "This branch is 2 commits ahead, 18 commits behind ..." The one thing it should NOT say is "This branch is even with ..." because that would mean you have not committed anything! What is this *ahead, behind* stuff? It compares your repo with the original repo -- the repo you forked, way back at the beginning. Your repo and that original repo are tethered to each other through the magic of Git!
+4. Click the squarish green button -- start the pull request process.
 5. Now you'll see a bigger green button: "Create pull request." Click it.
 6. There is a form for you to fill in. Do so, then click the last button that says "Create pull request."
 
