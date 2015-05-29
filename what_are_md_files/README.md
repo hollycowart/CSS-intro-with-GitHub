@@ -10,4 +10,14 @@ In this case, there is no code in the folder! There's only the Markdown file. Th
 
 To learn how to write Markdown for GitHub, [read this](https://guides.github.com/features/mastering-markdown/).
 
-You do not need to write any Markdown files for you assignment. I just thought you might be curious about them.
+You do not need to write any Markdown files for your assignment. I just thought you might be curious about them.
+
+##Why can't I read Markdown files locally?
+
+If you try to read a `.md` file from your hard drive in your Web browser, it will not work the way it does on GitHub. Basically, the file will not be readable.
+
+If you want to read Markdown files offline, you can do it with a Chrome extension called [Markdown Preview](https://chrome.google.com/webstore/detail/markdown-preview/jmchmkecamhbiokiopfpnfgbidieafmd). Be sure to check "Allow access to file URLs" in chrome://extensions listing. Then you can open local `.md` files and read them in a well-formatted display in Chrome.
+
+You can write and edit `.md` files in any text editor.
+
+There's a nice online viewer/editor for Markdown called [Dillinger](http://dillinger.io/).
