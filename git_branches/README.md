@@ -46,6 +46,6 @@ This will allow you to do the pull request successfully, later.
 
 ##Next steps
 
-To continue with your assignment, go back to the top of this repo, where all files and folders are listed. Go into the folder above named *assignment* and follow the instructions there.
+To continue with your assignment, go back to the top of this repo, where all files and folders are listed. Go into the folder named *assignment* and follow the instructions there.
 
 Remember to stay in your *assignment* branch! Do not switch branches again.
