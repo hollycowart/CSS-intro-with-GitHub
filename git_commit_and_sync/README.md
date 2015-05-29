@@ -39,4 +39,4 @@ By syncing, you will make your remote repo (at GitHub) match your local repo (on
 
 If you want or need to submit a **pull request** (and to complete this assignment, you do!), there's one last set of instructions for you to follow.
 
-Go back to the top of this repo, where all files and folders are listed. Go into the folder named *pull-requests* and follow the instructions there.
+Go back to the top of this repo, where all files and folders are listed. Go into the folder named *git_pull_requests* and follow the instructions there.

@@ -124,4 +124,4 @@ Remember, the focus of this assignment is using CSS to apply color to specific e
 
 When you have tested everything and are satisfied with your HTML and CSS, save and close the two files in your text editor.
 
-Then go back to the top of this repo, where all files and folders are listed. Go into the folder named *git-commit-and-sync* and follow the instructions there.
+Then go back to the top of this repo, where all files and folders are listed. Go into the folder named *git_commit_and_sync* and follow the instructions there.
