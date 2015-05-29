@@ -16,7 +16,7 @@ This is the last step!
 
 A pull request is your way to say, "My stuff is finished now. Please upload it to the main project or site."
 
-We use pull requests when the main project or site is controlled by someone else, and we are contributors to that site (or wannabe contributors).
+We use pull requests when the main project or site is controlled by someone else, and we are contributors to that site (or wannabe contributors). The `git pull` command is also used to transfer files to a live Web server, but that's a task for another day.
 
 So make sure *your stuff* is completely finished and fully functional before you submit a pull request!
 
@@ -24,7 +24,7 @@ So make sure *your stuff* is completely finished and fully functional before you
 
 Note that you will do this on GitHub, in your own repo. Not in the original that you forked.
 
-1. Open your repo on GitHub. The URL will resemble this: `github.com/yourname/CSS-intro-with-GitHub`
+1. Open your remote repo on GitHub. The URL will resemble this: `github.com/yourname/CSS-intro-with-GitHub`
 2. Switch into your *assignment* branch. On the left side, near the top, you should see a squarish green button. Beside it is a gray button that says "branch: master." Click the gray button to switch branches. No *assignment* branch? Did you [commit and sync all changes](../git_commit_and_sync)?
 3. Just below the gray button you'll see the current status of the branch. It should say something like "This branch is 6 commits ahead ..." or possibly "This branch is 2 commits ahead, 18 commits behind ..." The one thing it should NOT say is "This branch is even with ..." because that would mean you have not committed anything!
 4. Click the squarish green button.
