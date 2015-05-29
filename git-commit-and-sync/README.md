@@ -27,6 +27,16 @@ Windows: In your app, you will see this notice: "Uncommitted changes." Click the
 
 ##How to sync
 
+Do this after you commit. You can make many commits, or one, before you sync. In other words, you do not need to sync every time you commit.
+
 In both the Mac and Windows app, you'll find a sync button at the upper right. To sync, click the button.
 
+**Note:** If you have not published this branch yet, the link or button will say "Publish," not "Sync." Click that.
+
 By syncing, you will make your remote repo (at GitHub) match your local repo (on your hard drive), providing a backup for your work. By keeping local and remote repos synchronized, you can protect your work and also share it with other people.
+
+##Final steps
+
+If you want or need to submit a **pull request** (and to complete this assignment, you do!), there's one last set of instructions for you to follow.
+
+Go back to the top of this repo, where all files and folders are listed. Go into the folder named *pull-requests* and follow the instructions there.
