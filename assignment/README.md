@@ -9,10 +9,6 @@ Up to now, you have done the following:
 1. [Created a GitHub account and signed in.](../github_basics)
 2. [Forked and cloned a repo.](../../../)
 3. [Created a new branch named *assignment* and switched to that branch.](../git_branches)
- 
- 
-I like this section. Nice moment to breathe. 
- 
 
 ##Save As: Two new files
 
