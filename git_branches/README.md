@@ -30,6 +30,10 @@ Name the new branch. My suggestion: Name it *assignment* since that's what you'l
 
 You should see your second branch immediately.
 
+##What is the branch?
+
+Your new branch is a perfect copy of all the files in *master.* Everything in *master* now exists as a copy in your *assignment* branch.
+
 ##Switching between branches
 
 This can be tricky, so pay attention. Remember the idea of "parallel universes"? Keep that in mind, because branches are NOT like folders. You can't simply move stuff back and forth between them. But *you* can move between branches.
