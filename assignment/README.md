@@ -98,6 +98,8 @@ Note that there are five (5) link pseudo classes, and there is a *required order
 
 Select colors for all five link pseudo classes that provide **good contrast** with the background color of `figure` -- most of the links on this page are in a `figure` element. Save, reload, and adjust as needed to get good contrast.
 
+**ALL colors in your stylesheet MUST use hexadecimal codes** (explained in chapter 13).
+
 Now look at your `footer`. Chances are the pseudo-class colors that worked for everything else are not providing a good color experience in your `footer`.
 
 To fix that:
