@@ -123,9 +123,9 @@ footer a:link { color: #c363b2; }
 
 Save and reload often to test, test, test. If anything looks messed up, it is probably because of a typing error. Check your file carefully.
 
-Don't worry about the edges of elements. We will learn about borders, margin and padding soon enough!
+Don't worry about the edges of elements. The text is too close to the edges, and it looks ugly. You will learn how to use borders, margin and padding soon enough!
 
-Remember, the focus of this assignment is using CSS to apply color to specific elements. Mark up the HTML elements correctly and write the CSS fortext and background colors correctly.
+Remember, the focus of this assignment is using CSS to apply color to specific elements. Mark up the HTML elements correctly and write the CSS for text and background colors correctly.
 
 ##Next steps
 
