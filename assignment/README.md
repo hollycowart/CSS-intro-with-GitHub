@@ -7,7 +7,7 @@ If you don't understand that, you probably skipped a step. Not good. Go back and
 Up to now, you have done the following:
 
 1. [Created a GitHub account and signed in.](../github_basics)
-2. [Forked and cloned a repo.](../../../README.md)
+2. [Forked and cloned a repo.](../../../)
 3. [Created a new branch named *assignment* and switched to that branch.](../git_branches)
 
 ## Save As: Two new files
