@@ -20,6 +20,6 @@ If you want to read Markdown files offline, you can do it with a Chrome extensio
 
 You can write and edit `.md` files in any text editor.
 
-The Atom text editor has [a cool Markdown Preview option](../images/markdown.png)] -- it's on the Packages menu.
+The Atom text editor has [a cool Markdown Preview option](../images/markdown.png) -- it's on the Packages menu.
 
 There's a nice online viewer/editor for Markdown called [Dillinger](http://dillinger.io/).
