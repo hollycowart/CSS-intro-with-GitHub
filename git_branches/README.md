@@ -48,15 +48,21 @@ When teams collaborate, each person is working on a separate piece of the projec
 
 There's more to it, but let's leave it there for now.
 
+Not everyone who uses GitHub uses or understands branches. However, branches are a standard part of [GitHub Flow](https://guides.github.com/introduction/flow/), which many coding teams use as a normal part of their work.
+
 ## Switching between branches
 
-This can be tricky, so pay attention. Remember the idea of "parallel universes"? Keep that in mind, because branches are NOT like folders. You can't simply move stuff back and forth between them. But *you* can move between branches.
+This can be tricky, so pay attention. Remember the idea of "parallel universes"? Keep that in mind, because branches are NOT like folders. You can't simply move stuff back and forth between them. But *you* can change branches.
 
-If you wanted to switch,
+If you wanted to switch to another branch, you would simply use the menu/button. It used to say *master,* but now it says *assignment-yourname.* The current branch has the checkmark.
+
+**DANGER!** If you make changes in one branch, and then you switch to another branch and make more changes, you will have a problem. Please be careful to stay inside the *assignment-yourname* branch AT ALL TIMES for the rest of this assignment.
 
 ## Your assignment
 
-For this assignment, I want you to do EVERYTHING in your *assignment* branch. Do not make any edits or other changes while you are in *master.* So **switch to your *assignment* branch,** and then **stay in it.**
+For this assignment, I want you to do EVERYTHING in your *assignment-yourname* branch. Do not make any edits or other changes while you are in *master.*
+
+If you're NOT in *assignment-yourname* now, **switch to it** and then **stay in it.**
 
 This will allow you to do the pull request successfully, later.
 
@@ -64,4 +70,4 @@ This will allow you to do the pull request successfully, later.
 
 To continue with your assignment, go back to the top of this repo, where all files and folders are listed. Go into the folder named *assignment* and follow the instructions there.
 
-Remember to stay in your *assignment* branch! Do not switch branches again.
+Remember to stay in your *assignment-yourname* branch! Do not switch branches again.
