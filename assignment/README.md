@@ -28,7 +28,7 @@ You will make ONLY these changes in the HTML file:
 2. Add `article` tags where they make sense. Save and reload to see changes.
 3. Add `header` tags where they make sense.
 4. Add `footer` tags where they make sense.
-5. Wrap the "Complementary Colors" heading and the two paragraphs below it in a single pair `aside` tags (create one `aside` element).
+5. Wrap the "Complementary Colors" heading and the two paragraphs below it in a single pair of `aside` tags (create one `aside` element that contains the heading and the two paragraphs).
 6. At the bottom of the page, change the words YOUR NAME HERE to your real first and last name, with normal capitalization (not all uppercase).
 
 Those tags are covered in your textbook and also in the ["HTML Basics" videos on YouTube](https://www.youtube.com/playlist?list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB).
