@@ -20,13 +20,15 @@ Please be very careful to follow those instructions exactly.
 
 ## Your HTML file
 
-Imagine this file is part of a larger website called “Everything You Need to Know About Web Design.” The “Color Theory” article is just one of many such articles.
+Imagine this file is part of a larger website called “Everything You Need to Know About Web Design.” That's the name of the entire site.
+
+The “Color Theory” article is just one of many such articles. That's the heading of the article on this page.
 
 You will make ONLY these changes in the HTML file:
 
 1. Change the `link` tag (in the `head`) to use your own renamed CSS file.
 2. Add `article` tags where they make sense. Save and reload to see changes.
-3. Add `header` tags where they make sense.
+3. Add `header` tags where they make sense. (Think of the entire site.)
 4. Add `footer` tags where they make sense.
 5. Wrap the "Complementary Colors" heading and the two paragraphs below it in a single pair of `aside` tags (create one `aside` element that contains the heading and the two paragraphs).
 6. At the bottom of the page, change the words YOUR NAME HERE to your real first and last name, with normal capitalization (not all uppercase).
