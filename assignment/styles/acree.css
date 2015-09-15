@@ -4,7 +4,7 @@
     */
 
 body {
-    background: #D5FBFF; /* change */
+    background: #59D8E5; /* change */
     color: #000; /* change */
     font-family: Calibri, Arial, sans-serif; /* keep */
 }
@@ -14,33 +14,34 @@ article {
     padding: 20px; /* keep */
     margin: auto; /* keep */
     border: 1px solid; /* can delete */
+    background: #999799;
 }
 
 /* add your styles here */
 
 header {
-    background: #647678;
+    background: #595859;
     color: #fff;
 }
 
 footer {
-  background: #647678;
+  background: #595859;
   color: #fff;
 }
 
 aside {
-  background: #9FBCBF;
+  background: #D5FBFF;
 }
 
 figure {
-  background: #ECF0F1;
+  background: #fff;
 }
 
 /* add your pseudo classes below this line */
 
-a:link { color: #003056; }
+a:link { color: #00A1D9; }
 
-a:visited { color: #1B4A5A; }
+a:visited { color: #47D9BF; }
 
 a:focus {
   background: #fff;
@@ -51,9 +52,9 @@ a:hover { color: #59D8E5; }
 
 a:active { color: #007BA6; }
 
-footer a:link { color: #003056; }
+footer a:link { color: #00A1D9; }
 
-footer a:visited { color: #1B4A5A; }
+footer a:visited { color: #47D9BF; }
 
 footer a:focus {
   background: #fff;
