@@ -45,7 +45,7 @@ a:visited { color: #47D9BF; }
 
 a:focus {
   background: #fff;
-  color: #673E3A;
+  color: #000;
 }
 
 a:hover { color: #59D8E5; }
@@ -58,7 +58,7 @@ footer a:visited { color: #47D9BF; }
 
 footer a:focus {
   background: #fff;
-  color: #2F3738;
+  color: #000;
 }
 
 footer a:hover { color: #59D8E5; }
