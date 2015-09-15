@@ -49,6 +49,8 @@ To see all pull requests in a repo, and the conversations about them, find the "
 
 For this assignment, you must ALSO give me your GitHub repo's URL in Canvas (Assignment 3).
 
+**I need it for grading!**
+
 It will be similar to this:
 
 [https://github.com/yourname/CSS-intro-with-GitHub]()
