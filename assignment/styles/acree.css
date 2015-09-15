@@ -19,23 +19,21 @@ article {
 /* add your styles here */
 
 header {
-    background: #59D8E5;
+    background: #647678;
     color: #fff;
 }
 
 footer {
-  background: #59D8E5;
+  background: #647678;
   color: #fff;
 }
 
 aside {
   background: #9FBCBF;
-  color: #000;
 }
 
 figure {
   background: #ECF0F1;
-  color: #000;
 }
 
 /* add your pseudo classes below this line */
@@ -49,7 +47,7 @@ a:focus {
   color: #673E3A;
 }
 
-a:hover { color: #49C6F2; }
+a:hover { color: #59D8E5; }
 
 a:active { color: #007BA6; }
 
@@ -62,6 +60,6 @@ footer a:focus {
   color: #2F3738;
 }
 
-footer a:hover { color: #647678; }
+footer a:hover { color: #59D8E5; }
 
 footer a:active { color: #007BA6; }
