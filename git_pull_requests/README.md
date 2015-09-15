@@ -45,6 +45,14 @@ Alternatively, the owner might want to discuss your changes with you. In that ca
 
 To see all pull requests in a repo, and the conversations about them, find the "Pull requests" link on the right side of the repo and go there.
 
+## Submit your URL in Canvas
+
+For this assignment, you must ALSO give me your GitHub repo's URL in Canvas (Assignment 3).
+
+It will be similar to this:
+
+[https://github.com/yourname/CSS-intro-with-GitHub]()
+
 ## Conclusion
 
 If you have successfully completed all the steps, **your instructor will see your pull request and approve it,** and your new files will be added to the original repo.
